@@ -1,4 +1,6 @@
-# Straffeloven 1902 - se [lovdata](https://lovdata.no/dokument/NLO/lov/1902-05-22-10)
+# Straffeloven 2005 - se [lovdata](https://lovdata.no/dokument/NL/lov/2005-05-20-28)
+
+Gruppe 2 - Adis Pinjic, Magnus Reitan, Anders Kvanvig, Eskil Uhlving Larsen og Ole Johann Rogstad
 
 * 1\. oktober 2015: Ble erstattet av Straffeloven 2005
 * Loven kan anvendes f.eks ved:
